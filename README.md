@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Jose</h1>
-<p>A passionate frontend developer from Miami, FL. I am a senior at Florida International University. Currently working on <a href="https://github.com/JoseMaurette1/Macrotrue">Macrotrue</a>. </p>
+<p>A passionate frontend developer from Miami, FL. I am a senior at Florida International University. Currently working on <a href="https://kontaktsource.com">Kontaktsource</a>. </p>
 <p>I build interactive Front End Apps utilizing modern tools and industry standard Agile Methodologies</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
