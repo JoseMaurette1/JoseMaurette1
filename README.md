@@ -1,13 +1,11 @@
 <h1>Hello 👋, I'm Jose</h1>
 <p>
-  A passionate frontend developer from Miami, FL. I am a senior at Florida International University. 
+  A passionate Fullstack developer from Miami, FL. I am a senior at Florida International University. 
   Currently working on 
-  <a href="https://kontaktsource.com" target="_blank" rel="noopener noreferrer">
-    Kontaktsource
-  </a>.
+  <a href="https://kontaktsource.com" target="_blank" rel="noopener noreferrer">Kontaktsource</a>. as the Lead Developer
 </p>
 
-<p>I build interactive Front End Apps utilizing modern tools and industry standard Agile Methodologies</p>
+<p>I build interactive Full Stack Apps utilizing modern tools and industry standard Agile Methodologies</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -27,6 +25,6 @@
 <li><a target="_blank" href="https://alwaysv1.vercel.app">Always</a></li>
 <li><a target="_blank" href="https://hosedev.vercel.app">Portfolio</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/josemaurette" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/maurette" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/hose_04" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMaurette1&show_icons=true&locale=en&layout=compact" alt="JoseMaurette1" /></p>
