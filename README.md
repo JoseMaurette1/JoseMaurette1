@@ -1,8 +1,7 @@
 <h1>Hello 👋, I'm Jose</h1>
 <p>
   A passionate Fullstack developer from Miami, FL. I am a senior at Florida International University. 
-  Currently working on 
-  <a href="https://kontaktsource.com" target="_blank" rel="noopener noreferrer">Kontaktsource</a>. as the Lead Developer
+  Currently looking for a job
 </p>
 
 <p>I build interactive Full Stack Apps utilizing modern tools and industry standard Agile Methodologies</p>
