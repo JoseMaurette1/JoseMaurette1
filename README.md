@@ -21,8 +21,8 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://Macrotrue.vercel.app">Macrotrue</a></li>
-<li><a target="_blank" href="https://alwaysv1.vercel.app">Always</a></li>
-<li><a target="_blank" href="https://hosedev.vercel.app">Portfolio</a></li>
+<li><a target="_blank" href="https://kontaktsource.com">Kontaktsource</a></li>
+<li><a target="_blank" href="https://maurette.vercel.app">Portfolio</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/maurette" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/hose_04" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
