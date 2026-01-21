@@ -14,38 +14,40 @@ I build interactive Full Stack applications utilizing modern tools and industry-
 
 ## 🚀 Languages and Tools
 
-<div align="center">
-
 ### Frontend
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#gh-light-mode-only)
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#gh-dark-mode-only)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg#gh-light-mode-only)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg#gh-dark-mode-only)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg#gh-light-mode-only)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg#gh-dark-mode-only)
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg#gh-light-mode-only)
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg#gh-dark-mode-only)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg#gh-light-mode-only)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg#gh-dark-mode-only)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg#gh-light-mode-only)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg#gh-dark-mode-only)
-![Framer](https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-icon.svg#gh-light-mode-only)
-![Framer](https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-icon.svg#gh-dark-mode-only)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#gh-light-mode-only" width="40" height="40" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#gh-dark-mode-only" width="40" height="40" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg#gh-light-mode-only" width="40" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg#gh-dark-mode-only" width="40" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg#gh-light-mode-only" width="40" height="40" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg#gh-dark-mode-only" width="40" height="40" alt="React">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg#gh-light-mode-only" width="40" height="40" alt="Next.js">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg#gh-dark-mode-only" width="40" height="40" alt="Next.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg#gh-light-mode-only" width="40" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg#gh-dark-mode-only" width="40" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg#gh-light-mode-only" width="40" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg#gh-dark-mode-only" width="40" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-icon.svg#gh-light-mode-only" width="40" height="40" alt="Framer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-icon.svg#gh-dark-mode-only" width="40" height="40" alt="Framer">
+</div>
 
 ### Backend & Database
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#gh-light-mode-only)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#gh-dark-mode-only)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg#gh-light-mode-only)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg#gh-dark-mode-only)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#gh-light-mode-only" width="40" height="40" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#gh-dark-mode-only" width="40" height="40" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg#gh-light-mode-only" width="40" height="40" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg#gh-dark-mode-only" width="40" height="40" alt="PostgreSQL">
+</div>
 
 ### Tools & Design
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg#gh-light-mode-only)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg#gh-dark-mode-only)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-light-mode-only)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-dark-mode-only)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg#gh-light-mode-only)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg#gh-dark-mode-only)
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg#gh-light-mode-only" width="40" height="40" alt="Git">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg#gh-dark-mode-only" width="40" height="40" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-light-mode-only" width="40" height="40" alt="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-dark-mode-only" width="40" height="40" alt="Linux">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg#gh-light-mode-only" width="40" height="40" alt="Figma">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg#gh-dark-mode-only" width="40" height="40" alt="Figma">
 </div>
 
 ---
