@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Jose</h1>
 <p>
-  A passionate Fullstack developer from Miami, FL. I am a senior at Florida International University. 
+  A passionate Fullstack developer from Miami, FL. I am an incoming Summer 2026 Masters of Computer Science Student at Florida International University. 
   Currently looking for a job
 </p>
 
