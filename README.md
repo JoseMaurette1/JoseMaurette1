@@ -36,5 +36,5 @@ for the new codebase.
 - **Translated requirements from 70+ clients into technical specifications**, ensuring the new platform resolved critical user pain points from the legacy system.
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurette)
+[![LinkedIn](https://img.shields.io/badge/-Jose_Maurette-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurette)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseMaurette1)
