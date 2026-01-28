@@ -1,5 +1,5 @@
 # Hi, Im Jose👋
-- 📍 **Miami, FL** | **Fullstack Web Developer** | **AI Engineer**
+📍 **Miami, FL** | **Fullstack Web Developer** | **AI Engineer**
 - M.S in Computer Science |📍  Florida International University | Starting Summer 2026
 
  ### 🧰 Tech Stack
