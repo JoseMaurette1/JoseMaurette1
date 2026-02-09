@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Current Projects
-- >_ **[Jump](https://.vercel.app)** - Vim inspired terminal navigation tool TUI built in Rust, supports Windows, WSL, Linux, MacOS
+- >_ **[Jump](https://vimjump.vercel.app)** - Vim inspired terminal navigation tool TUI built in Rust, supports Windows, WSL, Linux, MacOS
 
 ## Recent Projects
 - 🎵 **[Spotbuds](https://spotbuds.vercel.app)** - AI powered Spotify Dashboard, create playlists, share your music taste, view your friend's listening history.
