@@ -64,6 +64,5 @@
    
   ## Connect                                                                                                                                     
                                                       
-  [![LinkedIn](https://img.shields.io/badge/-Jose_Maurette-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m
-  aurette)
+  [![LinkedIn](https://img.shields.io/badge/-Jose_Maurette-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurette)
   [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseMaurette1)  
