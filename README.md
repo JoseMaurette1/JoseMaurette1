@@ -21,7 +21,10 @@ Modernized the web platform's frontend.\
 
 ## 📈 Work Contributions ([@Jose-Zensah](https://github.com/Jose-Zensah))
 
-![Jose-Zensah contribution graph](https://ghchart.rshah.org/Jose-Zensah)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Jose-Zensah contribution graph" src="assets/contributions-light.svg">
+</picture>
 
 ## 🧰 Tech Stack
 
