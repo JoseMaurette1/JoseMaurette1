@@ -1,68 +1,60 @@
-● # Hi, I'm Jose 👋                       
+# Hi, I'm Jose 👋
 
-  📍 **Miami, FL** | **AI Engineer**                                                                                                             
-   
-  - M.S in Data Science and AI | Florida International University | Summer 2026 - Present                                                            
-                                                      
-  ### 🧰 Tech Stack                                                                                                                              
-                                                      
-  **Frontend:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)                               
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)                              
-                                                                                                                                                 
-  **Backend & Data:**                                                                                                                            
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)                                      
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)                               
-  ![Drizzle ORM](https://img.shields.io/badge/-Drizzle-C5B358?style=flat-square)                                                                 
-                                                                                                                                                 
-  **AI & Tools:**                                                                                                                                
-  ![Groq API](https://img.shields.io/badge/-Groq-FF6B00?style=flat-square)                                                                       
-  ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)                                           
-  ![Clerk](https://img.shields.io/badge/-Clerk-6C63FF?style=flat-square)
-                                                                                                                                                 
-  ### 💻 OS                                           
-                                                                                                                                                 
-  ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)                                              
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-                                                                                                                                                 
-  ## Current Projects                                 
+📍 **Miami, FL** | **Agentic AI & Platform Engineer @ [Zensah](https://www.zensah.com)**
 
-  - 🚀 **[Jump](https://vimjump.vercel.app)** - Terminal navigation CLI built in Rust                                                            
-    - Cross-platform TUI with fuzzy search and vim keybindings
-    - SQLite-backed persistent bookmarks across terminal sessions                                                                                
-    - Supports Windows, WSL, Linux, macOS             
-                                                                                                                                                 
-  ## Recent Projects                                  
+- 🎓 M.S. in Data Science and AI | Florida International University | May 2026 – Present
+- 🎓 B.A. in Computer Science, Dean's List | Florida International University | 2022 – 2025
 
-  - 💪 **[Macrotrue](https://macrotrue.vercel.app)** - AI-driven SaaS for nutrition tracking                                                     
-    - Integrated Groq API (LLaMA 3.3-70B) for structured meal generation and conversational AI
-    - Implemented rate limiting, prompt injection prevention, token usage tracking                                                               
-    - Stripe billing with tiered access control, Clerk authentication, PostgreSQL + Drizzle ORM on Neon serverless                               
-                                                                                                                                                 
-  - 🎵 **[SpotBuds](https://spotbuds.vercel.app)** - Spotify analytics platform                                                                  
-    - OAuth 2.0 authentication, real-time data synchronization                                                                                   
-    - PostgreSQL + Prisma ORM, dynamic data visualization with Recharts                                                                          
-    - Exportable analytics (JSON/CSV)                 
-                                                                                                                                                 
-  ## Past Impacts
-                                                                                                                                                 
-  ### Where?                                          
+## 💼 Experience
 
-  - **[Kontaktsource](https://kontaktsource.com)** - Exclusive Membership community for M&A professionals
+**[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineer | Aug 2026 – Present\
+_Previously Agentic AI & Platform Engineering Intern | May 2026 – Aug 2026_
 
-  ### What I did?                                                                                                                                
-   
-  - Spearheaded the **complete modernization** of the legacy WordPress platform, migrating to a responsive, component-based architecture using   
-  JavaScript and Tailwind CSS                         
-  - Engineered a performance-focused UI overhaul that reduced bounce rates and directly contributed to a **13% increase in client acquisition**
-  and **60% boost in user engagement**                                                                                                           
-  - **Led a team of three developers** in the end-to-end rewrite, establishing Git workflows and code quality standards for the new codebase
-  - **Translated requirements from 70+ clients into technical specifications**, ensuring the new platform resolved critical user pain points from
-   the legacy system                                                                                                                             
-   
-  ## Connect                                                                                                                                     
-                                                      
-  [![LinkedIn](https://img.shields.io/badge/-Jose_Maurette-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurette)
-  [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseMaurette1)  
+Building AI agents and the internal data platform they run on.\
+`TypeScript` `Python` `Next.js` `Supabase` `PostgreSQL` `Claude API`
+
+**[Kontaktsource](https://kontaktsource.com)** — Full-Stack Developer Intern | Jun 2025 – Aug 2025
+
+Modernized the web platform's frontend.\
+`JavaScript` `Tailwind CSS` `WordPress`
+
+## 📈 Work Contributions ([@Jose-Zensah](https://github.com/Jose-Zensah))
+
+![Jose-Zensah contribution graph](https://ghchart.rshah.org/Jose-Zensah)
+
+## 🧰 Tech Stack
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & Agents:**
+![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**Backend & Data:**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+**DevOps:**
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/-maurette.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://maurette.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-Jose_Maurette-0077B5?style=flat-square)](https://www.linkedin.com/in/maurette)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseMaurette1)
