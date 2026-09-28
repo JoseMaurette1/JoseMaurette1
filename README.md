@@ -2,7 +2,7 @@
 
   📍 **Miami, FL** | **AI Engineer**                                                                                                             
    
-  - M.S in Computer Science | Florida International University | Starting Summer 2026                                                            
+  - M.S in Data Science and AI | Florida International University | Summer 2026 - Present                                                            
                                                       
   ### 🧰 Tech Stack                                                                                                                              
                                                       
