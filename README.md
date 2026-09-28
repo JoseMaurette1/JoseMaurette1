@@ -9,7 +9,7 @@
 
 **[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineer | Aug 2026 – Present\
 Building AI agents and the internal data platform they run on.\
-`TypeScript` `Python` `Next.js` `Supabase` `PostgreSQL` `Claude API`
+`Python` `TypeScript` `Claude API` `Multi-Agent Systems` `Supabase` `Next.js`
 
 **[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineering Intern | May 2026 – Aug 2026\
 Shipped autonomous AI agents to production and the platform behind them.\
