@@ -9,11 +9,11 @@
 
 **[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineer | Aug 2026 – Present\
 Building AI agents and the internal data platform they run on.\
-`Python` `TypeScript` `Claude API` `Multi-Agent Systems` `Supabase` `Next.js`
+`Python` `TypeScript` `Claude API` `Multi-Agent Systems` `Next.js`
 
 **[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineering Intern | May 2026 – Aug 2026\
 Shipped autonomous AI agents to production and the platform behind them.\
-`Python` `TypeScript` `Claude API` `Multi-Agent Systems` `Supabase`
+`Python` `TypeScript` `Claude API` `Multi-Agent Systems`
 
 **[Kontaktsource](https://kontaktsource.com)** — Full-Stack Developer Intern | Jun 2025 – Aug 2025\
 Modernized the web platform's frontend.\
@@ -44,7 +44,6 @@ Modernized the web platform's frontend.\
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Frontend:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
