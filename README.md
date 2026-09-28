@@ -8,13 +8,14 @@
 ## 💼 Experience
 
 **[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineer | Aug 2026 – Present\
-_Previously Agentic AI & Platform Engineering Intern | May 2026 – Aug 2026_
-
 Building AI agents and the internal data platform they run on.\
 `TypeScript` `Python` `Next.js` `Supabase` `PostgreSQL` `Claude API`
 
-**[Kontaktsource](https://kontaktsource.com)** — Full-Stack Developer Intern | Jun 2025 – Aug 2025
+**[Zensah](https://www.zensah.com)** — Agentic AI & Platform Engineering Intern | May 2026 – Aug 2026\
+Helped build the AI and data platform from the ground up.\
+`TypeScript` `Python` `Next.js` `Supabase` `GitHub Actions`
 
+**[Kontaktsource](https://kontaktsource.com)** — Full-Stack Developer Intern | Jun 2025 – Aug 2025\
 Modernized the web platform's frontend.\
 `JavaScript` `Tailwind CSS` `WordPress`
 
